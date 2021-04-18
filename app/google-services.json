@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123868332988",
+    "project_id": "mytodolist-8e741",
+    "storage_bucket": "mytodolist-8e741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123868332988:android:8e2211036b7785a357a1b9",
+        "android_client_info": {
+          "package_name": "edu.rockvalleycollege.mytodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123868332988-p49sv8d0kmo4hfi9lhfa7k24rq1hdmoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPEclMb-kaFg8gWPzwBU4SLBOsXVFv4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123868332988-p49sv8d0kmo4hfi9lhfa7k24rq1hdmoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
